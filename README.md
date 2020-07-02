@@ -10,6 +10,6 @@ aplikasi untuk mengacak setiap pixel dari gambar
 
 **Ekripsi Image**
 
-<img src="Enkripsi_Image.png>
+<img src="Enkripsi_Image.png">
           
 aplikasi akan membaca setiap pixel dari gambar lalu dienkripsi sesuai algoritma yang telah saya ciptakan
